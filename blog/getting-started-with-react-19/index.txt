@@ -1,0 +1,195 @@
+1:"$Sreact.fragment"
+2:I[69015,["534","static/chunks/534-38759a5c498b7e33.js","874","static/chunks/874-3e820bd666038662.js","988","static/chunks/988-296a71b5b7664830.js","432","static/chunks/432-910bd44af8454fee.js","299","static/chunks/299-bf37c6d184f6a70d.js","177","static/chunks/app/layout-bf13f27dff46ba21.js"],"ThemeProvider"]
+3:I[63849,["534","static/chunks/534-38759a5c498b7e33.js","874","static/chunks/874-3e820bd666038662.js","988","static/chunks/988-296a71b5b7664830.js","432","static/chunks/432-910bd44af8454fee.js","299","static/chunks/299-bf37c6d184f6a70d.js","177","static/chunks/app/layout-bf13f27dff46ba21.js"],"MuiProvider"]
+4:I[77614,["534","static/chunks/534-38759a5c498b7e33.js","874","static/chunks/874-3e820bd666038662.js","988","static/chunks/988-296a71b5b7664830.js","432","static/chunks/432-910bd44af8454fee.js","299","static/chunks/299-bf37c6d184f6a70d.js","177","static/chunks/app/layout-bf13f27dff46ba21.js"],"default"]
+5:I[87555,[],""]
+6:I[31295,[],""]
+7:I[6874,["874","static/chunks/874-3e820bd666038662.js","345","static/chunks/app/not-found-8c42360f1fa4cddc.js"],""]
+9:I[59665,[],"OutletBoundary"]
+b:I[74911,[],"AsyncMetadataOutlet"]
+d:I[59665,[],"ViewportBoundary"]
+f:I[59665,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[28393,[],""]
+:HL["/_next/static/media/c97d4358b5ad6f1f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/4819e36eb50aaf42.css","style"]
+0:{"P":null,"b":"3vpBbkrL7objueCc9FYgK","p":"","c":["","blog","getting-started-with-react-19",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","getting-started-with-react-19","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4819e36eb50aaf42.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_e8ce0c __variable_ae1979","children":["$","body",null,{"className":"min-h-screen bg-background text-foreground antialiased","suppressHydrationWarning":true,"children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$L4",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center bg-background","children":["$","div",null,{"className":"text-center px-4","children":[["$","h1",null,{"className":"text-9xl font-bold text-primary mb-4","children":"404"}],["$","h2",null,{"className":"text-2xl md:text-3xl font-semibold text-foreground mb-6","children":"Page Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8 max-w-md mx-auto","children":"The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4 justify-center","children":[["$","$L7",null,{"href":"/","className":"inline-flex items-center justify-center px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary/90 transition-colors","children":"← Back to Home"}],["$","$L7",null,{"href":"/work","className":"inline-flex items-center justify-center px-6 py-3 border border-gray-300 dark:border-gray-600 text-foreground rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors","children":"View My Work"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]}]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","getting-started-with-react-19","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+13:T1935,<h1>Getting Started with React 19: What's New and Exciting</h1>
+<p>React 19 has arrived with a host of exciting new features that promise to revolutionize how we build web applications. As a developer who's been working with React for years, I'm thrilled to share the most impactful changes and how they'll affect your development workflow.</p>
+<h2>The React Compiler: A Game Changer</h2>
+<p>The most significant addition to React 19 is the <strong>React Compiler</strong>. This isn't just another tool – it's a fundamental shift in how React optimizes your code.</p>
+<pre><code class="language-jsx">// Before: Manual optimization with useMemo and useCallback
+const ExpensiveComponent = ({ items, filter }) => {
+  const filteredItems = useMemo(() => 
+    items.filter(item => item.category === filter), 
+    [items, filter]
+  );
+  
+  const handleClick = useCallback((id) => {
+    // Handle click logic
+  }, []);
+
+  return (
+    &#x3C;div>
+      {filteredItems.map(item => (
+        &#x3C;Item key={item.id} item={item} onClick={handleClick} />
+      ))}
+    &#x3C;/div>
+  );
+};
+</code></pre>
+<pre><code class="language-jsx">// After: React Compiler handles optimization automatically
+const ExpensiveComponent = ({ items, filter }) => {
+  const filteredItems = items.filter(item => item.category === filter);
+  
+  const handleClick = (id) => {
+    // Handle click logic
+  };
+
+  return (
+    &#x3C;div>
+      {filteredItems.map(item => (
+        &#x3C;Item key={item.id} item={item} onClick={handleClick} />
+      ))}
+    &#x3C;/div>
+  );
+};
+</code></pre>
+<p>The compiler automatically detects when values need to be memoized, eliminating the need for manual <code>useMemo</code> and <code>useCallback</code> in most cases.</p>
+<h2>Enhanced Server Components</h2>
+<p>React 19 brings significant improvements to Server Components, making them more powerful and easier to use:</p>
+<h3>Simplified Data Fetching</h3>
+<pre><code class="language-jsx">// React 19 Server Component
+async function BlogPost({ slug }) {
+  // Direct async operations in components
+  const post = await fetchBlogPost(slug);
+  const comments = await fetchComments(slug);
+
+  return (
+    &#x3C;article>
+      &#x3C;h1>{post.title}&#x3C;/h1>
+      &#x3C;div>{post.content}&#x3C;/div>
+      &#x3C;Comments comments={comments} />
+    &#x3C;/article>
+  );
+}
+</code></pre>
+<h3>Better Streaming Support</h3>
+<pre><code class="language-jsx">import { Suspense } from 'react';
+
+function BlogPage({ slug }) {
+  return (
+    &#x3C;div>
+      &#x3C;Header />
+      &#x3C;Suspense fallback={&#x3C;PostSkeleton />}>
+        &#x3C;BlogPost slug={slug} />
+      &#x3C;/Suspense>
+      &#x3C;Suspense fallback={&#x3C;CommentsSkeleton />}>
+        &#x3C;Comments slug={slug} />
+      &#x3C;/Suspense>
+    &#x3C;/div>
+  );
+}
+</code></pre>
+<h2>New Hook: useActionState</h2>
+<p>One of the most useful new hooks is <code>useActionState</code>, which simplifies form handling and async actions:</p>
+<pre><code class="language-jsx">import { useActionState } from 'react';
+
+function ContactForm() {
+  const [state, formAction, pending] = useActionState(
+    async (prevState, formData) => {
+      try {
+        await submitContactForm(formData);
+        return { success: true, message: 'Form submitted successfully!' };
+      } catch (error) {
+        return { success: false, message: error.message };
+      }
+    },
+    { success: false, message: '' }
+  );
+
+  return (
+    &#x3C;form action={formAction}>
+      &#x3C;input name="email" type="email" required />
+      &#x3C;input name="message" required />
+      &#x3C;button type="submit" disabled={pending}>
+        {pending ? 'Submitting...' : 'Submit'}
+      &#x3C;/button>
+      {state.message &#x26;&#x26; (
+        &#x3C;p className={state.success ? 'success' : 'error'}>
+          {state.message}
+        &#x3C;/p>
+      )}
+    &#x3C;/form>
+  );
+}
+</code></pre>
+<h2>Improved Developer Experience</h2>
+<h3>Better Error Boundaries</h3>
+<pre><code class="language-jsx">import { ErrorBoundary } from 'react';
+
+function App() {
+  return (
+    &#x3C;ErrorBoundary fallback={&#x3C;ErrorFallback />}>
+      &#x3C;Router>
+        &#x3C;Routes>
+          &#x3C;Route path="/" element={&#x3C;Home />} />
+          &#x3C;Route path="/blog" element={&#x3C;Blog />} />
+        &#x3C;/Routes>
+      &#x3C;/Router>
+    &#x3C;/ErrorBoundary>
+  );
+}
+
+function ErrorFallback({ error, resetErrorBoundary }) {
+  return (
+    &#x3C;div className="error-boundary">
+      &#x3C;h2>Something went wrong:&#x3C;/h2>
+      &#x3C;pre>{error.message}&#x3C;/pre>
+      &#x3C;button onClick={resetErrorBoundary}>Try again&#x3C;/button>
+    &#x3C;/div>
+  );
+}
+</code></pre>
+<h2>Migration Guide</h2>
+<p>If you're upgrading from React 18, here's what you need to know:</p>
+<h3>1. Update Dependencies</h3>
+<pre><code class="language-bash">npm install react@19 react-dom@19
+</code></pre>
+<h3>2. Enable the Compiler (Optional)</h3>
+<pre><code class="language-javascript">// next.config.js
+module.exports = {
+  experimental: {
+    reactCompiler: true
+  }
+};
+</code></pre>
+<h3>3. Review Your Code</h3>
+<ul>
+<li>Remove unnecessary <code>useMemo</code> and <code>useCallback</code> where the compiler can optimize</li>
+<li>Update error boundary implementations</li>
+<li>Consider migrating to Server Components for data-heavy pages</li>
+</ul>
+<h2>Performance Improvements</h2>
+<p>React 19 delivers significant performance improvements:</p>
+<ul>
+<li><strong>50% faster</strong> hydration times</li>
+<li><strong>30% smaller</strong> bundle sizes with the compiler</li>
+<li><strong>Reduced</strong> memory usage in development</li>
+<li><strong>Better</strong> tree-shaking capabilities</li>
+</ul>
+<h2>Conclusion</h2>
+<p>React 19 represents a major leap forward in React's evolution. The compiler alone will save countless hours of manual optimization, while the enhanced Server Components make building fast, SEO-friendly applications easier than ever.</p>
+<p>The future of React development looks incredibly bright, and I can't wait to see what the community builds with these new capabilities.</p>
+<h2>What's Next?</h2>
+<p>In my next post, I'll dive deeper into practical examples of migrating a real-world application to React 19 and share performance benchmarks from production deployments.</p>
+<hr>
+<p><em>Have questions about React 19? Feel free to reach out on <a href="https://linkedin.com/in/abhinavjha">LinkedIn</a> or <a href="https://twitter.com/abhinavjhadev">Twitter</a>.</em></p>
+8:["$","div",null,{"className":"container mx-auto px-4 py-12 max-w-4xl","children":["$","div",null,{"ref":"$undefined","className":"rounded-sm border transition-all duration-200 overflow-hidden bg-card/30 backdrop-blur-sm border-border/50 p-4 overflow-hidden","role":"$undefined","tabIndex":"$undefined","children":[["$","div",null,{"ref":"$undefined","className":"bg-cover bg-center bg-no-repeat w-full","style":{"backgroundImage":"url(/images/blog/react-19-cover.jpg)","height":"260px","width":"$undefined"},"role":"img","aria-label":"$undefined","title":"Getting Started with React 19: What's New and Exciting","children":"$undefined"}],["$","div",null,{"ref":"$undefined","className":"flex items-start justify-between pb-0","children":[["$","div",null,{"className":"flex items-start space-x-4 flex-1","children":["$undefined",["$","div",null,{"className":"flex-1 min-w-0","children":[["$","div",null,{"className":"text-lg font-semibold leading-6 text-card-foreground","children":["$","h1",null,{"ref":"$undefined","className":"text-lg font-semibold leading-none tracking-tight text-card-foreground text-2xl md:text-3xl","children":"Getting Started with React 19: What's New and Exciting"}]}],["$","div",null,{"className":"text-sm text-muted-foreground mt-1","children":["$","div",null,{"className":"flex flex-wrap items-center gap-3 text-xs text-muted-foreground","children":[["$","span",null,{"children":["👤 ","Abhinav Jha"]}],["$","span",null,{"children":["📅 ","January 15, 2024"]}],["$","span",null,{"children":["⏱️ ",8," min read"]}],["$","span",null,{"children":["↻ Updated ","January 16, 2024"]}]]}]}]]}]]}],"$undefined",null]}],["$","div",null,{"ref":"$undefined","className":"p-6 pt-0 text-card-foreground pt-4","children":["$","p",null,{"ref":"$undefined","className":"text-sm text-muted-foreground text-base","children":"React 19 introduces groundbreaking features including the new React Compiler, improved Suspense boundaries, and enhanced server components that will change how we develop React applications."}]}],["$","div",null,{"ref":"$undefined","className":"p-6 pt-0 text-card-foreground pt-6","children":["$","div",null,{"className":"prose prose-lg dark:prose-invert max-w-none","dangerouslySetInnerHTML":{"__html":"$13"}}]}],"$L14"]}]}]
+14:["$","div",null,{"ref":"$undefined","className":"flex items-center p-6 pt-0 pt-0","children":["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span",null,{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-blue-100 dark:bg-blue-900/20 text-blue-800 dark:text-blue-200","children":"technical"}],[["$","span","React",{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-gray-100 dark:bg-gray-800 text-foreground","children":["#","React"]}],["$","span","JavaScript",{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-gray-100 dark:bg-gray-800 text-foreground","children":["#","JavaScript"]}],["$","span","Frontend",{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-gray-100 dark:bg-gray-800 text-foreground","children":["#","Frontend"]}],["$","span","Web Development",{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-gray-100 dark:bg-gray-800 text-foreground","children":["#","Web Development"]}]]]}]}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+15:I[38175,[],"IconMark"]
+c:{"metadata":[["$","title","0",{"children":"Getting Started with React 19: What's New and Exciting | Abhinav Jha"}],["$","meta","1",{"name":"description","content":"Explore the latest features in React 19 including the new compiler, improved Suspense, and enhanced server components."}],["$","link","2",{"rel":"author","href":"https://abhinavjha.dev"}],["$","meta","3",{"name":"author","content":"Abhinav Jha"}],["$","meta","4",{"name":"keywords","content":"React,Next.js,TypeScript,AI,Machine Learning,Full-Stack Developer,Python,Node.js"}],["$","meta","5",{"name":"creator","content":"Abhinav Jha"}],["$","meta","6",{"name":"publisher","content":"Abhinav Jha"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","9",{"name":"google-site-verification","content":"your-google-verification-code"}],["$","meta","10",{"property":"og:title","content":"Getting Started with React 19: What's New and Exciting"}],["$","meta","11",{"property":"og:description","content":"Explore the latest features in React 19 including the new compiler, improved Suspense, and enhanced server components."}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"property":"article:published_time","content":"2024-01-15T10:00:00Z"}],["$","meta","14",{"property":"article:modified_time","content":"2024-01-16T14:30:00Z"}],["$","meta","15",{"property":"article:author","content":"Abhinav Jha"}],["$","meta","16",{"property":"article:tag","content":"React"}],["$","meta","17",{"property":"article:tag","content":"JavaScript"}],["$","meta","18",{"property":"article:tag","content":"Frontend"}],["$","meta","19",{"property":"article:tag","content":"Web Development"}],["$","meta","20",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","21",{"name":"twitter:title","content":"Getting Started with React 19: What's New and Exciting"}],["$","meta","22",{"name":"twitter:description","content":"Explore the latest features in React 19 including the new compiler, improved Suspense, and enhanced server components."}],["$","link","23",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L15","24",{}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"

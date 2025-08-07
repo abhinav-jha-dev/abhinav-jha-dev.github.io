@@ -1,0 +1,557 @@
+1:"$Sreact.fragment"
+2:I[69015,["534","static/chunks/534-38759a5c498b7e33.js","874","static/chunks/874-3e820bd666038662.js","988","static/chunks/988-296a71b5b7664830.js","432","static/chunks/432-910bd44af8454fee.js","299","static/chunks/299-bf37c6d184f6a70d.js","177","static/chunks/app/layout-bf13f27dff46ba21.js"],"ThemeProvider"]
+3:I[63849,["534","static/chunks/534-38759a5c498b7e33.js","874","static/chunks/874-3e820bd666038662.js","988","static/chunks/988-296a71b5b7664830.js","432","static/chunks/432-910bd44af8454fee.js","299","static/chunks/299-bf37c6d184f6a70d.js","177","static/chunks/app/layout-bf13f27dff46ba21.js"],"MuiProvider"]
+4:I[77614,["534","static/chunks/534-38759a5c498b7e33.js","874","static/chunks/874-3e820bd666038662.js","988","static/chunks/988-296a71b5b7664830.js","432","static/chunks/432-910bd44af8454fee.js","299","static/chunks/299-bf37c6d184f6a70d.js","177","static/chunks/app/layout-bf13f27dff46ba21.js"],"default"]
+5:I[87555,[],""]
+6:I[31295,[],""]
+7:I[6874,["874","static/chunks/874-3e820bd666038662.js","345","static/chunks/app/not-found-8c42360f1fa4cddc.js"],""]
+9:I[59665,[],"OutletBoundary"]
+b:I[74911,[],"AsyncMetadataOutlet"]
+d:I[59665,[],"ViewportBoundary"]
+f:I[59665,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[28393,[],""]
+:HL["/_next/static/media/c97d4358b5ad6f1f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/4819e36eb50aaf42.css","style"]
+0:{"P":null,"b":"3vpBbkrL7objueCc9FYgK","p":"","c":["","blog","microservices-architecture-lessons",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","microservices-architecture-lessons","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4819e36eb50aaf42.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_e8ce0c __variable_ae1979","children":["$","body",null,{"className":"min-h-screen bg-background text-foreground antialiased","suppressHydrationWarning":true,"children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$L4",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center bg-background","children":["$","div",null,{"className":"text-center px-4","children":[["$","h1",null,{"className":"text-9xl font-bold text-primary mb-4","children":"404"}],["$","h2",null,{"className":"text-2xl md:text-3xl font-semibold text-foreground mb-6","children":"Page Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8 max-w-md mx-auto","children":"The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4 justify-center","children":[["$","$L7",null,{"href":"/","className":"inline-flex items-center justify-center px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary/90 transition-colors","children":"← Back to Home"}],["$","$L7",null,{"href":"/work","className":"inline-flex items-center justify-center px-6 py-3 border border-gray-300 dark:border-gray-600 text-foreground rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors","children":"View My Work"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]}]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","microservices-architecture-lessons","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+13:T45a1,<h1>Microservices Architecture: Lessons from the Trenches</h1>
+<p>After spending five years implementing and maintaining microservices architectures across multiple organizations, I've learned some hard truths about when microservices work, when they don't, and how to implement them successfully. This post shares the real-world lessons that textbooks don't teach you.</p>
+<h2>The Harsh Reality Check</h2>
+<p><strong>Microservices are not a silver bullet.</strong> In fact, for most applications, they create more problems than they solve. Before diving into implementation details, let me share when you should <em>not</em> use microservices:</p>
+<h3>When NOT to Use Microservices</h3>
+<ol>
+<li><strong>Small teams (&#x3C; 10 developers)</strong>: The overhead isn't worth it</li>
+<li><strong>Simple applications</strong>: If your app can be built as a well-structured monolith, do that</li>
+<li><strong>Greenfield projects</strong>: Start with a monolith, extract microservices later</li>
+<li><strong>Limited DevOps expertise</strong>: Microservices require mature operational practices</li>
+<li><strong>Tight coupling requirements</strong>: Some domains are naturally cohesive</li>
+</ol>
+<h2>When Microservices Make Sense</h2>
+<p>After working with teams ranging from 5 to 150 developers, here's when microservices actually provide value:</p>
+<h3>Organizational Drivers</h3>
+<ul>
+<li><strong>Large, autonomous teams</strong> (8+ developers per service)</li>
+<li><strong>Different release cycles</strong> for different parts of the system</li>
+<li><strong>Technology diversity</strong> requirements</li>
+<li><strong>Team independence</strong> is a priority</li>
+</ul>
+<h3>Technical Drivers</h3>
+<ul>
+<li><strong>Scale bottlenecks</strong> in specific components</li>
+<li><strong>Different non-functional requirements</strong> (some services need high availability, others don't)</li>
+<li><strong>Legacy system integration</strong> requirements</li>
+<li><strong>Compliance isolation</strong> needs</li>
+</ul>
+<h2>Real-World Architecture Patterns</h2>
+<h3>1. Service Mesh Pattern</h3>
+<pre><code class="language-yaml"># Istio service mesh configuration
+apiVersion: networking.istio.io/v1alpha3
+kind: VirtualService
+metadata:
+  name: user-service
+spec:
+  http:
+  - match:
+    - headers:
+        canary-version:
+          exact: "v2"
+    route:
+    - destination:
+        host: user-service
+        subset: v2
+      weight: 100
+  - route:
+    - destination:
+        host: user-service
+        subset: v1
+      weight: 90
+    - destination:
+        host: user-service
+        subset: v2
+      weight: 10
+</code></pre>
+<p><strong>Why it works</strong>: Service mesh handles cross-cutting concerns (security, observability, traffic management) without cluttering business logic.</p>
+<p><strong>When we use it</strong>: For organizations with 20+ microservices where consistent networking policies are crucial.</p>
+<h3>2. API Gateway Pattern</h3>
+<pre><code class="language-typescript">// Custom API Gateway with routing logic
+class APIGateway {
+  private routes: Map&#x3C;string, ServiceConfig> = new Map();
+  
+  constructor() {
+    this.setupRoutes();
+  }
+  
+  private setupRoutes() {
+    this.routes.set('/api/users', {
+      service: 'user-service',
+      version: 'v1',
+      timeout: 5000,
+      retries: 3,
+      circuitBreaker: true
+    });
+    
+    this.routes.set('/api/orders', {
+      service: 'order-service', 
+      version: 'v2',
+      timeout: 10000,
+      retries: 2,
+      rateLimit: { requests: 100, window: 60000 }
+    });
+  }
+  
+  async handleRequest(request: Request): Promise&#x3C;Response> {
+    const route = this.matchRoute(request.url);
+    
+    // Authentication &#x26; authorization
+    const user = await this.authenticate(request);
+    if (!this.authorize(user, route)) {
+      return new Response('Forbidden', { status: 403 });
+    }
+    
+    // Circuit breaker check
+    if (this.circuitBreakerOpen(route.service)) {
+      return this.fallbackResponse(request);
+    }
+    
+    // Rate limiting
+    if (!this.rateLimitCheck(user.id, route)) {
+      return new Response('Rate limited', { status: 429 });
+    }
+    
+    // Forward to service
+    return this.forwardRequest(request, route);
+  }
+}
+</code></pre>
+<p><strong>Lessons learned</strong>:</p>
+<ul>
+<li>Don't put business logic in the gateway</li>
+<li>Keep it stateless and horizontally scalable</li>
+<li>Implement proper circuit breakers and timeouts</li>
+<li>Monitor everything - gateways become critical bottlenecks</li>
+</ul>
+<h3>3. Event-Driven Architecture</h3>
+<pre><code class="language-typescript">// Event sourcing with microservices
+interface OrderEvent {
+  id: string;
+  type: 'OrderCreated' | 'OrderPaid' | 'OrderShipped' | 'OrderCancelled';
+  data: any;
+  timestamp: Date;
+  version: number;
+}
+
+class OrderService {
+  private eventStore: EventStore;
+  private eventBus: EventBus;
+  
+  async createOrder(orderData: CreateOrderData): Promise&#x3C;string> {
+    const orderId = generateId();
+    
+    // Business logic validation
+    await this.validateOrder(orderData);
+    
+    // Create event
+    const event: OrderEvent = {
+      id: orderId,
+      type: 'OrderCreated',
+      data: orderData,
+      timestamp: new Date(),
+      version: 1
+    };
+    
+    // Store event
+    await this.eventStore.append(orderId, event);
+    
+    // Publish for other services
+    await this.eventBus.publish('order.created', event);
+    
+    return orderId;
+  }
+  
+  async handlePaymentConfirmed(event: PaymentConfirmedEvent) {
+    const orderEvent: OrderEvent = {
+      id: event.orderId,
+      type: 'OrderPaid',
+      data: { paymentId: event.paymentId },
+      timestamp: new Date(),
+      version: await this.getNextVersion(event.orderId)
+    };
+    
+    await this.eventStore.append(event.orderId, orderEvent);
+    await this.eventBus.publish('order.paid', orderEvent);
+  }
+}
+</code></pre>
+<p><strong>Critical insights</strong>:</p>
+<ul>
+<li>Event sourcing provides excellent audit trails but adds complexity</li>
+<li>Eventual consistency is harder to reason about than most developers expect</li>
+<li>Compensating transactions become essential for maintaining data integrity</li>
+<li>Message ordering and duplicate handling require careful design</li>
+</ul>
+<h2>Data Management Strategies</h2>
+<h3>Database per Service</h3>
+<pre><code class="language-sql">-- User Service Database
+CREATE TABLE users (
+  id UUID PRIMARY KEY,
+  email VARCHAR(255) UNIQUE NOT NULL,
+  created_at TIMESTAMP DEFAULT NOW()
+);
+
+-- Order Service Database  
+CREATE TABLE orders (
+  id UUID PRIMARY KEY,
+  user_id UUID NOT NULL, -- Reference, not foreign key
+  status VARCHAR(50) NOT NULL,
+  total DECIMAL(10,2) NOT NULL,
+  created_at TIMESTAMP DEFAULT NOW()
+);
+</code></pre>
+<p><strong>Key lessons</strong>:</p>
+<ul>
+<li>No foreign keys across service boundaries</li>
+<li>Eventual consistency between services</li>
+<li>Implement saga patterns for distributed transactions</li>
+<li>Data duplication is acceptable and often necessary</li>
+</ul>
+<h3>CQRS Implementation</h3>
+<pre><code class="language-typescript">// Command side - Write operations
+class CreateOrderCommandHandler {
+  async handle(command: CreateOrderCommand): Promise&#x3C;void> {
+    const order = new Order(command.data);
+    await this.orderRepository.save(order);
+    
+    // Publish events for read model updates
+    await this.eventBus.publish('order.created', {
+      orderId: order.id,
+      userId: order.userId,
+      total: order.total
+    });
+  }
+}
+
+// Query side - Read operations
+class OrderQueryService {
+  async getOrdersByUser(userId: string): Promise&#x3C;OrderSummary[]> {
+    // Optimized read model
+    return this.orderReadRepository.findByUserId(userId);
+  }
+  
+  async getOrderStatistics(): Promise&#x3C;OrderStats> {
+    // Pre-computed aggregations
+    return this.statsRepository.getLatest();
+  }
+}
+</code></pre>
+<p><strong>When to use CQRS</strong>:</p>
+<ul>
+<li>Complex read requirements that don't match write models</li>
+<li>High read/write volume imbalances</li>
+<li>Need for different consistency models</li>
+<li>Reporting and analytics requirements</li>
+</ul>
+<h2>Common Pitfalls and Solutions</h2>
+<h3>1. The Distributed Monolith Anti-Pattern</h3>
+<p><strong>Problem</strong>: Services that are too tightly coupled, requiring coordinated deployments.</p>
+<pre><code class="language-typescript">// BAD: Tight coupling between services
+class OrderService {
+  async createOrder(orderData: any) {
+    // Synchronous calls to multiple services
+    const user = await this.userService.getUser(orderData.userId);
+    const inventory = await this.inventoryService.checkAvailability(orderData.items);
+    const pricing = await this.pricingService.calculatePrice(orderData.items);
+    
+    // All services must be available for this to work
+    return this.saveOrder({ ...orderData, user, inventory, pricing });
+  }
+}
+</code></pre>
+<p><strong>Solution</strong>: Embrace eventual consistency and async communication.</p>
+<pre><code class="language-typescript">// GOOD: Loose coupling with events
+class OrderService {
+  async createOrder(orderData: any) {
+    // Create order optimistically
+    const order = await this.saveOrder(orderData);
+    
+    // Publish event for other services to react
+    await this.eventBus.publish('order.created', {
+      orderId: order.id,
+      userId: orderData.userId,
+      items: orderData.items
+    });
+    
+    return order;
+  }
+}
+
+// Other services react independently
+class InventoryService {
+  async handleOrderCreated(event: OrderCreatedEvent) {
+    const available = await this.checkInventory(event.items);
+    
+    if (!available) {
+      await this.eventBus.publish('order.inventory-insufficient', {
+        orderId: event.orderId
+      });
+    }
+  }
+}
+</code></pre>
+<h3>2. Data Consistency Challenges</h3>
+<p><strong>Problem</strong>: Maintaining consistency across service boundaries.</p>
+<p><strong>Solution</strong>: Implement the Saga pattern.</p>
+<pre><code class="language-typescript">// Saga coordinator for order processing
+class OrderProcessingSaga {
+  private steps = [
+    { service: 'payment', action: 'charge', compensate: 'refund' },
+    { service: 'inventory', action: 'reserve', compensate: 'release' },
+    { service: 'shipping', action: 'schedule', compensate: 'cancel' }
+  ];
+  
+  async execute(orderId: string) {
+    const completedSteps: string[] = [];
+    
+    try {
+      for (const step of this.steps) {
+        await this.executeStep(orderId, step);
+        completedSteps.push(step.service);
+      }
+    } catch (error) {
+      // Compensate in reverse order
+      await this.compensate(orderId, completedSteps.reverse());
+      throw error;
+    }
+  }
+  
+  private async compensate(orderId: string, completedSteps: string[]) {
+    for (const service of completedSteps) {
+      const step = this.steps.find(s => s.service === service);
+      await this.executeCompensation(orderId, step!);
+    }
+  }
+}
+</code></pre>
+<h3>3. Service Discovery and Communication</h3>
+<pre><code class="language-typescript">// Service registry implementation
+class ServiceRegistry {
+  private services = new Map&#x3C;string, ServiceInstance[]>();
+  
+  async register(serviceName: string, instance: ServiceInstance) {
+    const instances = this.services.get(serviceName) || [];
+    instances.push(instance);
+    this.services.set(serviceName, instances);
+    
+    // Health check
+    this.startHealthCheck(serviceName, instance);
+  }
+  
+  async discover(serviceName: string): Promise&#x3C;ServiceInstance> {
+    const instances = this.services.get(serviceName) || [];
+    const healthyInstances = instances.filter(i => i.healthy);
+    
+    if (healthyInstances.length === 0) {
+      throw new Error(`No healthy instances of ${serviceName}`);
+    }
+    
+    // Load balancing - round robin
+    return this.selectInstance(healthyInstances);
+  }
+  
+  private async startHealthCheck(serviceName: string, instance: ServiceInstance) {
+    setInterval(async () => {
+      try {
+        await fetch(`${instance.url}/health`);
+        instance.healthy = true;
+      } catch {
+        instance.healthy = false;
+      }
+    }, 30000);
+  }
+}
+</code></pre>
+<h2>Monitoring and Observability</h2>
+<h3>Distributed Tracing</h3>
+<pre><code class="language-typescript">// OpenTelemetry implementation
+import { trace, context } from '@opentelemetry/api';
+
+class OrderService {
+  private tracer = trace.getTracer('order-service');
+  
+  async createOrder(orderData: any) {
+    return this.tracer.startActiveSpan('create-order', async (span) => {
+      span.setAttributes({
+        'order.user_id': orderData.userId,
+        'order.item_count': orderData.items.length,
+        'order.total': orderData.total
+      });
+      
+      try {
+        // Business logic with nested spans
+        const validatedOrder = await this.validateOrder(orderData);
+        const savedOrder = await this.saveOrder(validatedOrder);
+        
+        span.setStatus({ code: 2 }); // OK
+        return savedOrder;
+      } catch (error) {
+        span.recordException(error);
+        span.setStatus({ code: 1, message: error.message }); // ERROR
+        throw error;
+      } finally {
+        span.end();
+      }
+    });
+  }
+  
+  private async validateOrder(orderData: any) {
+    return this.tracer.startActiveSpan('validate-order', async (span) => {
+      // Validation logic
+      span.end();
+      return orderData;
+    });
+  }
+}
+</code></pre>
+<h3>Health Checks and Circuit Breakers</h3>
+<pre><code class="language-typescript">class CircuitBreaker {
+  private failures = 0;
+  private lastFailureTime = 0;
+  private state: 'CLOSED' | 'OPEN' | 'HALF_OPEN' = 'CLOSED';
+  
+  constructor(
+    private threshold = 5,
+    private timeout = 60000
+  ) {}
+  
+  async call&#x3C;T>(fn: () => Promise&#x3C;T>): Promise&#x3C;T> {
+    if (this.state === 'OPEN') {
+      if (Date.now() - this.lastFailureTime > this.timeout) {
+        this.state = 'HALF_OPEN';
+      } else {
+        throw new Error('Circuit breaker is OPEN');
+      }
+    }
+    
+    try {
+      const result = await fn();
+      this.onSuccess();
+      return result;
+    } catch (error) {
+      this.onFailure();
+      throw error;
+    }
+  }
+  
+  private onSuccess() {
+    this.failures = 0;
+    this.state = 'CLOSED';
+  }
+  
+  private onFailure() {
+    this.failures++;
+    this.lastFailureTime = Date.now();
+    
+    if (this.failures >= this.threshold) {
+      this.state = 'OPEN';
+    }
+  }
+}
+</code></pre>
+<h2>Performance Considerations</h2>
+<h3>Service Communication Optimization</h3>
+<pre><code class="language-typescript">// Batch requests to reduce latency
+class UserService {
+  private batchQueue = new Map&#x3C;string, Promise&#x3C;User>>();
+  
+  async getUser(userId: string): Promise&#x3C;User> {
+    // Check if request is already in flight
+    if (this.batchQueue.has(userId)) {
+      return this.batchQueue.get(userId)!;
+    }
+    
+    // Add to batch
+    const promise = this.processBatch();
+    this.batchQueue.set(userId, promise);
+    
+    return promise;
+  }
+  
+  private async processBatch(): Promise&#x3C;User> {
+    // Wait for batch window
+    await new Promise(resolve => setTimeout(resolve, 10));
+    
+    const userIds = Array.from(this.batchQueue.keys());
+    const users = await this.batchFetchUsers(userIds);
+    
+    // Resolve all promises
+    userIds.forEach(id => {
+      const user = users.find(u => u.id === id);
+      // Resolve the promise for this user
+    });
+    
+    this.batchQueue.clear();
+    return users[0]; // This is simplified
+  }
+}
+</code></pre>
+<h2>Migration Strategies</h2>
+<h3>Strangler Fig Pattern</h3>
+<pre><code class="language-typescript">// Gradual migration from monolith to microservices
+class APIRouter {
+  private microserviceRoutes = new Set([
+    '/api/users',
+    '/api/auth'
+  ]);
+  
+  async routeRequest(request: Request): Promise&#x3C;Response> {
+    const path = new URL(request.url).pathname;
+    
+    if (this.microserviceRoutes.has(path)) {
+      // Route to new microservice
+      return this.forwardToMicroservice(request);
+    } else {
+      // Route to legacy monolith
+      return this.forwardToMonolith(request);
+    }
+  }
+  
+  // Gradually add more routes to microservices
+  migrateRoute(path: string) {
+    this.microserviceRoutes.add(path);
+  }
+}
+</code></pre>
+<h2>Conclusion: The Real-World Perspective</h2>
+<p>After years of implementing microservices, here's my honest assessment:</p>
+<p><strong>Start with a monolith.</strong> Seriously. Build your application as a well-structured monolith first. You'll learn your domain, understand your scaling bottlenecks, and identify natural service boundaries.</p>
+<p><strong>Extract microservices strategically.</strong> When you have:</p>
+<ul>
+<li>Clear team boundaries</li>
+<li>Genuine scaling needs</li>
+<li>Mature DevOps practices</li>
+<li>Strong monitoring and observability</li>
+</ul>
+<p><strong>Measure everything.</strong> The complexity of microservices is real. You need metrics to prove they're providing value:</p>
+<ul>
+<li>Deployment frequency</li>
+<li>Lead time for changes</li>
+<li>Mean time to recovery</li>
+<li>Service availability</li>
+</ul>
+<p><strong>Invest in tooling.</strong> Microservices require excellent tooling:</p>
+<ul>
+<li>Service mesh for networking</li>
+<li>Distributed tracing for debugging</li>
+<li>Centralized logging for troubleshooting</li>
+<li>Automated testing and deployment</li>
+</ul>
+<p>The future belongs to teams that can balance the benefits of microservices with their inherent complexity. Don't fall for the hype—use microservices when they solve real problems, not because they're trendy.</p>
+<hr>
+<p><em>Building microservices architecture? I'd love to discuss your specific challenges. Connect with me on <a href="https://linkedin.com/in/abhinavjha">LinkedIn</a> or check out my consulting services for architecture reviews.</em></p>
+8:["$","div",null,{"className":"container mx-auto px-4 py-12 max-w-4xl","children":["$","div",null,{"ref":"$undefined","className":"rounded-sm border transition-all duration-200 overflow-hidden bg-card/30 backdrop-blur-sm border-border/50 p-4 overflow-hidden","role":"$undefined","tabIndex":"$undefined","children":[["$","div",null,{"ref":"$undefined","className":"bg-cover bg-center bg-no-repeat w-full","style":{"backgroundImage":"url(/images/blog/microservices-cover.jpg)","height":"260px","width":"$undefined"},"role":"img","aria-label":"$undefined","title":"Microservices Architecture: Lessons from the Trenches","children":"$undefined"}],["$","div",null,{"ref":"$undefined","className":"flex items-start justify-between pb-0","children":[["$","div",null,{"className":"flex items-start space-x-4 flex-1","children":["$undefined",["$","div",null,{"className":"flex-1 min-w-0","children":[["$","div",null,{"className":"text-lg font-semibold leading-6 text-card-foreground","children":["$","h1",null,{"ref":"$undefined","className":"text-lg font-semibold leading-none tracking-tight text-card-foreground text-2xl md:text-3xl","children":"Microservices Architecture: Lessons from the Trenches"}]}],["$","div",null,{"className":"text-sm text-muted-foreground mt-1","children":["$","div",null,{"className":"flex flex-wrap items-center gap-3 text-xs text-muted-foreground","children":[["$","span",null,{"children":["👤 ","Abhinav Jha"]}],["$","span",null,{"children":["📅 ","January 5, 2024"]}],["$","span",null,{"children":["⏱️ ",15," min read"]}],null]}]}]]}]]}],"$undefined",null]}],["$","div",null,{"ref":"$undefined","className":"p-6 pt-0 text-card-foreground pt-4","children":["$","p",null,{"ref":"$undefined","className":"text-sm text-muted-foreground text-base","children":"Practical insights on microservices implementation, including common pitfalls, best practices, and when to choose monoliths over microservices."}]}],["$","div",null,{"ref":"$undefined","className":"p-6 pt-0 text-card-foreground pt-6","children":["$","div",null,{"className":"prose prose-lg dark:prose-invert max-w-none","dangerouslySetInnerHTML":{"__html":"$13"}}]}],"$L14"]}]}]
+14:["$","div",null,{"ref":"$undefined","className":"flex items-center p-6 pt-0 pt-0","children":["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span",null,{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-blue-100 dark:bg-blue-900/20 text-blue-800 dark:text-blue-200","children":"technical"}],[["$","span","Architecture",{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-gray-100 dark:bg-gray-800 text-foreground","children":["#","Architecture"]}],["$","span","Microservices",{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-gray-100 dark:bg-gray-800 text-foreground","children":["#","Microservices"]}],["$","span","Backend",{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-gray-100 dark:bg-gray-800 text-foreground","children":["#","Backend"]}],["$","span","DevOps",{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-gray-100 dark:bg-gray-800 text-foreground","children":["#","DevOps"]}]]]}]}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+15:I[38175,[],"IconMark"]
+c:{"metadata":[["$","title","0",{"children":"Microservices Architecture: Lessons from the Trenches | Abhinav Jha"}],["$","meta","1",{"name":"description","content":"Real-world insights from implementing microservices architecture in production environments."}],["$","link","2",{"rel":"author","href":"https://abhinavjha.dev"}],["$","meta","3",{"name":"author","content":"Abhinav Jha"}],["$","meta","4",{"name":"keywords","content":"React,Next.js,TypeScript,AI,Machine Learning,Full-Stack Developer,Python,Node.js"}],["$","meta","5",{"name":"creator","content":"Abhinav Jha"}],["$","meta","6",{"name":"publisher","content":"Abhinav Jha"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","9",{"name":"google-site-verification","content":"your-google-verification-code"}],["$","meta","10",{"property":"og:title","content":"Microservices Architecture: Lessons from the Trenches"}],["$","meta","11",{"property":"og:description","content":"Real-world insights from implementing microservices architecture in production environments."}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"property":"article:published_time","content":"2024-01-05T09:15:00Z"}],["$","meta","14",{"property":"article:author","content":"Abhinav Jha"}],["$","meta","15",{"property":"article:tag","content":"Architecture"}],["$","meta","16",{"property":"article:tag","content":"Microservices"}],["$","meta","17",{"property":"article:tag","content":"Backend"}],["$","meta","18",{"property":"article:tag","content":"DevOps"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"Microservices Architecture: Lessons from the Trenches"}],["$","meta","21",{"name":"twitter:description","content":"Real-world insights from implementing microservices architecture in production environments."}],["$","link","22",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L15","23",{}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
