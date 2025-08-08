@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[69015,["534","static/chunks/534-38759a5c498b7e33.js","874","static/chunks/874-3e820bd666038662.js","988","static/chunks/988-296a71b5b7664830.js","432","static/chunks/432-910bd44af8454fee.js","299","static/chunks/299-bf37c6d184f6a70d.js","177","static/chunks/app/layout-bf13f27dff46ba21.js"],"ThemeProvider"]
-3:I[63849,["534","static/chunks/534-38759a5c498b7e33.js","874","static/chunks/874-3e820bd666038662.js","988","static/chunks/988-296a71b5b7664830.js","432","static/chunks/432-910bd44af8454fee.js","299","static/chunks/299-bf37c6d184f6a70d.js","177","static/chunks/app/layout-bf13f27dff46ba21.js"],"MuiProvider"]
-4:I[77614,["534","static/chunks/534-38759a5c498b7e33.js","874","static/chunks/874-3e820bd666038662.js","988","static/chunks/988-296a71b5b7664830.js","432","static/chunks/432-910bd44af8454fee.js","299","static/chunks/299-bf37c6d184f6a70d.js","177","static/chunks/app/layout-bf13f27dff46ba21.js"],"default"]
+2:I[69015,["874","static/chunks/874-3e820bd666038662.js","534","static/chunks/534-669f790b0669c8a7.js","766","static/chunks/766-0aba3d5aeb464af5.js","259","static/chunks/259-4ada064bcc55a15d.js","652","static/chunks/652-77c01727aa361ea7.js","177","static/chunks/app/layout-e2f575b467e2621e.js"],"ThemeProvider"]
+3:I[63849,["874","static/chunks/874-3e820bd666038662.js","534","static/chunks/534-669f790b0669c8a7.js","766","static/chunks/766-0aba3d5aeb464af5.js","259","static/chunks/259-4ada064bcc55a15d.js","652","static/chunks/652-77c01727aa361ea7.js","177","static/chunks/app/layout-e2f575b467e2621e.js"],"MuiProvider"]
+4:I[77614,["874","static/chunks/874-3e820bd666038662.js","534","static/chunks/534-669f790b0669c8a7.js","766","static/chunks/766-0aba3d5aeb464af5.js","259","static/chunks/259-4ada064bcc55a15d.js","652","static/chunks/652-77c01727aa361ea7.js","177","static/chunks/app/layout-e2f575b467e2621e.js"],"default"]
 5:I[87555,[],""]
 6:I[31295,[],""]
 7:I[6874,["874","static/chunks/874-3e820bd666038662.js","345","static/chunks/app/not-found-8c42360f1fa4cddc.js"],""]
@@ -13,46 +13,47 @@ f:I[59665,[],"MetadataBoundary"]
 12:I[28393,[],""]
 :HL["/_next/static/media/c97d4358b5ad6f1f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/4819e36eb50aaf42.css","style"]
-0:{"P":null,"b":"3vpBbkrL7objueCc9FYgK","p":"","c":["","blog","getting-started-with-react-19",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","getting-started-with-react-19","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4819e36eb50aaf42.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_e8ce0c __variable_ae1979","children":["$","body",null,{"className":"min-h-screen bg-background text-foreground antialiased","suppressHydrationWarning":true,"children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$L4",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center bg-background","children":["$","div",null,{"className":"text-center px-4","children":[["$","h1",null,{"className":"text-9xl font-bold text-primary mb-4","children":"404"}],["$","h2",null,{"className":"text-2xl md:text-3xl font-semibold text-foreground mb-6","children":"Page Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8 max-w-md mx-auto","children":"The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4 justify-center","children":[["$","$L7",null,{"href":"/","className":"inline-flex items-center justify-center px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary/90 transition-colors","children":"← Back to Home"}],["$","$L7",null,{"href":"/work","className":"inline-flex items-center justify-center px-6 py-3 border border-gray-300 dark:border-gray-600 text-foreground rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors","children":"View My Work"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]}]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","getting-started-with-react-19","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
-13:T1935,<h1>Getting Started with React 19: What's New and Exciting</h1>
+:HL["/_next/static/css/384daad3dc6d4e00.css","style"]
+0:{"P":null,"b":"RYygSqAZE2jIZQh8pnXMB","p":"","c":["","blog","getting-started-with-react-19",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","getting-started-with-react-19","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/384daad3dc6d4e00.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_e8ce0c __variable_ae1979","children":["$","body",null,{"className":"min-h-screen bg-background text-foreground antialiased","suppressHydrationWarning":true,"children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$L4",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center bg-background","children":["$","div",null,{"className":"text-center px-4","children":[["$","h1",null,{"className":"text-9xl font-bold text-primary mb-4","children":"404"}],["$","h2",null,{"className":"text-2xl md:text-3xl font-semibold text-foreground mb-6","children":"Page Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8 max-w-md mx-auto","children":"The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4 justify-center","children":[["$","$L7",null,{"href":"/","className":"inline-flex items-center justify-center px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary/90 transition-colors","children":"← Back to Home"}],["$","$L7",null,{"href":"/work","className":"inline-flex items-center justify-center px-6 py-3 border border-gray-300 dark:border-gray-600 text-foreground rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors","children":"View My Work"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]}]}]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","getting-started-with-react-19","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+13:I[35699,["592","static/chunks/c15bf2b0-51c91f303884de57.js","802","static/chunks/802-11cc87ae5017832e.js","953","static/chunks/app/blog/%5Bslug%5D/page-3613b93613fd406c.js"],"default"]
+14:T39f8,<h1>Getting Started with React 19: What's New and Exciting</h1>
 <p>React 19 has arrived with a host of exciting new features that promise to revolutionize how we build web applications. As a developer who's been working with React for years, I'm thrilled to share the most impactful changes and how they'll affect your development workflow.</p>
 <h2>The React Compiler: A Game Changer</h2>
 <p>The most significant addition to React 19 is the <strong>React Compiler</strong>. This isn't just another tool – it's a fundamental shift in how React optimizes your code.</p>
-<pre><code class="language-jsx">// Before: Manual optimization with useMemo and useCallback
-const ExpensiveComponent = ({ items, filter }) => {
-  const filteredItems = useMemo(() => 
-    items.filter(item => item.category === filter), 
+<pre><code class="hljs language-jsx"><span class="hljs-comment">// Before: Manual optimization with useMemo and useCallback</span>
+<span class="hljs-keyword">const</span> <span class="hljs-title function_">ExpensiveComponent</span> = (<span class="hljs-params">{ items, filter }</span>) => {
+  <span class="hljs-keyword">const</span> filteredItems = <span class="hljs-title function_">useMemo</span>(<span class="hljs-function">() =></span> 
+    items.<span class="hljs-title function_">filter</span>(<span class="hljs-function"><span class="hljs-params">item</span> =></span> item.<span class="hljs-property">category</span> === filter), 
     [items, filter]
   );
   
-  const handleClick = useCallback((id) => {
-    // Handle click logic
+  <span class="hljs-keyword">const</span> handleClick = <span class="hljs-title function_">useCallback</span>(<span class="hljs-function">(<span class="hljs-params">id</span>) =></span> {
+    <span class="hljs-comment">// Handle click logic</span>
   }, []);
 
-  return (
-    &#x3C;div>
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>
       {filteredItems.map(item => (
-        &#x3C;Item key={item.id} item={item} onClick={handleClick} />
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">Item</span> <span class="hljs-attr">key</span>=<span class="hljs-string">{item.id}</span> <span class="hljs-attr">item</span>=<span class="hljs-string">{item}</span> <span class="hljs-attr">onClick</span>=<span class="hljs-string">{handleClick}</span> /></span>
       ))}
-    &#x3C;/div>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>
   );
 };
 </code></pre>
-<pre><code class="language-jsx">// After: React Compiler handles optimization automatically
-const ExpensiveComponent = ({ items, filter }) => {
-  const filteredItems = items.filter(item => item.category === filter);
+<pre><code class="hljs language-jsx"><span class="hljs-comment">// After: React Compiler handles optimization automatically</span>
+<span class="hljs-keyword">const</span> <span class="hljs-title function_">ExpensiveComponent</span> = (<span class="hljs-params">{ items, filter }</span>) => {
+  <span class="hljs-keyword">const</span> filteredItems = items.<span class="hljs-title function_">filter</span>(<span class="hljs-function"><span class="hljs-params">item</span> =></span> item.<span class="hljs-property">category</span> === filter);
   
-  const handleClick = (id) => {
-    // Handle click logic
+  <span class="hljs-keyword">const</span> <span class="hljs-title function_">handleClick</span> = (<span class="hljs-params">id</span>) => {
+    <span class="hljs-comment">// Handle click logic</span>
   };
 
-  return (
-    &#x3C;div>
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>
       {filteredItems.map(item => (
-        &#x3C;Item key={item.id} item={item} onClick={handleClick} />
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">Item</span> <span class="hljs-attr">key</span>=<span class="hljs-string">{item.id}</span> <span class="hljs-attr">item</span>=<span class="hljs-string">{item}</span> <span class="hljs-attr">onClick</span>=<span class="hljs-string">{handleClick}</span> /></span>
       ))}
-    &#x3C;/div>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>
   );
 };
 </code></pre>
@@ -60,108 +61,108 @@ const ExpensiveComponent = ({ items, filter }) => {
 <h2>Enhanced Server Components</h2>
 <p>React 19 brings significant improvements to Server Components, making them more powerful and easier to use:</p>
 <h3>Simplified Data Fetching</h3>
-<pre><code class="language-jsx">// React 19 Server Component
-async function BlogPost({ slug }) {
-  // Direct async operations in components
-  const post = await fetchBlogPost(slug);
-  const comments = await fetchComments(slug);
+<pre><code class="hljs language-jsx"><span class="hljs-comment">// React 19 Server Component</span>
+<span class="hljs-keyword">async</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">BlogPost</span>(<span class="hljs-params">{ slug }</span>) {
+  <span class="hljs-comment">// Direct async operations in components</span>
+  <span class="hljs-keyword">const</span> post = <span class="hljs-keyword">await</span> <span class="hljs-title function_">fetchBlogPost</span>(slug);
+  <span class="hljs-keyword">const</span> comments = <span class="hljs-keyword">await</span> <span class="hljs-title function_">fetchComments</span>(slug);
 
-  return (
-    &#x3C;article>
-      &#x3C;h1>{post.title}&#x3C;/h1>
-      &#x3C;div>{post.content}&#x3C;/div>
-      &#x3C;Comments comments={comments} />
-    &#x3C;/article>
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">article</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">h1</span>></span>{post.title}<span class="hljs-tag">&#x3C;/<span class="hljs-name">h1</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>{post.content}<span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">Comments</span> <span class="hljs-attr">comments</span>=<span class="hljs-string">{comments}</span> /></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">article</span>></span></span>
   );
 }
 </code></pre>
 <h3>Better Streaming Support</h3>
-<pre><code class="language-jsx">import { Suspense } from 'react';
+<pre><code class="hljs language-jsx"><span class="hljs-keyword">import</span> { <span class="hljs-title class_">Suspense</span> } <span class="hljs-keyword">from</span> <span class="hljs-string">'react'</span>;
 
-function BlogPage({ slug }) {
-  return (
-    &#x3C;div>
-      &#x3C;Header />
-      &#x3C;Suspense fallback={&#x3C;PostSkeleton />}>
-        &#x3C;BlogPost slug={slug} />
-      &#x3C;/Suspense>
-      &#x3C;Suspense fallback={&#x3C;CommentsSkeleton />}>
-        &#x3C;Comments slug={slug} />
-      &#x3C;/Suspense>
-    &#x3C;/div>
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">BlogPage</span>(<span class="hljs-params">{ slug }</span>) {
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">Header</span> /></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">Suspense</span> <span class="hljs-attr">fallback</span>=<span class="hljs-string">{</span>&#x3C;<span class="hljs-attr">PostSkeleton</span> /></span>}>
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">BlogPost</span> <span class="hljs-attr">slug</span>=<span class="hljs-string">{slug}</span> /></span>
+      <span class="hljs-tag">&#x3C;/<span class="hljs-name">Suspense</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">Suspense</span> <span class="hljs-attr">fallback</span>=<span class="hljs-string">{</span>&#x3C;<span class="hljs-attr">CommentsSkeleton</span> /></span>}>
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">Comments</span> <span class="hljs-attr">slug</span>=<span class="hljs-string">{slug}</span> /></span>
+      <span class="hljs-tag">&#x3C;/<span class="hljs-name">Suspense</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>
   );
 }
 </code></pre>
 <h2>New Hook: useActionState</h2>
 <p>One of the most useful new hooks is <code>useActionState</code>, which simplifies form handling and async actions:</p>
-<pre><code class="language-jsx">import { useActionState } from 'react';
+<pre><code class="hljs language-jsx"><span class="hljs-keyword">import</span> { useActionState } <span class="hljs-keyword">from</span> <span class="hljs-string">'react'</span>;
 
-function ContactForm() {
-  const [state, formAction, pending] = useActionState(
-    async (prevState, formData) => {
-      try {
-        await submitContactForm(formData);
-        return { success: true, message: 'Form submitted successfully!' };
-      } catch (error) {
-        return { success: false, message: error.message };
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">ContactForm</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">const</span> [state, formAction, pending] = <span class="hljs-title function_">useActionState</span>(
+    <span class="hljs-title function_">async</span> (prevState, formData) => {
+      <span class="hljs-keyword">try</span> {
+        <span class="hljs-keyword">await</span> <span class="hljs-title function_">submitContactForm</span>(formData);
+        <span class="hljs-keyword">return</span> { <span class="hljs-attr">success</span>: <span class="hljs-literal">true</span>, <span class="hljs-attr">message</span>: <span class="hljs-string">'Form submitted successfully!'</span> };
+      } <span class="hljs-keyword">catch</span> (error) {
+        <span class="hljs-keyword">return</span> { <span class="hljs-attr">success</span>: <span class="hljs-literal">false</span>, <span class="hljs-attr">message</span>: error.<span class="hljs-property">message</span> };
       }
     },
-    { success: false, message: '' }
+    { <span class="hljs-attr">success</span>: <span class="hljs-literal">false</span>, <span class="hljs-attr">message</span>: <span class="hljs-string">''</span> }
   );
 
-  return (
-    &#x3C;form action={formAction}>
-      &#x3C;input name="email" type="email" required />
-      &#x3C;input name="message" required />
-      &#x3C;button type="submit" disabled={pending}>
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">form</span> <span class="hljs-attr">action</span>=<span class="hljs-string">{formAction}</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">input</span> <span class="hljs-attr">name</span>=<span class="hljs-string">"email"</span> <span class="hljs-attr">type</span>=<span class="hljs-string">"email"</span> <span class="hljs-attr">required</span> /></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">input</span> <span class="hljs-attr">name</span>=<span class="hljs-string">"message"</span> <span class="hljs-attr">required</span> /></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">button</span> <span class="hljs-attr">type</span>=<span class="hljs-string">"submit"</span> <span class="hljs-attr">disabled</span>=<span class="hljs-string">{pending}</span>></span>
         {pending ? 'Submitting...' : 'Submit'}
-      &#x3C;/button>
+      <span class="hljs-tag">&#x3C;/<span class="hljs-name">button</span>></span>
       {state.message &#x26;&#x26; (
-        &#x3C;p className={state.success ? 'success' : 'error'}>
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">p</span> <span class="hljs-attr">className</span>=<span class="hljs-string">{state.success</span> ? '<span class="hljs-attr">success</span>' <span class="hljs-attr">:</span> '<span class="hljs-attr">error</span>'}></span>
           {state.message}
-        &#x3C;/p>
+        <span class="hljs-tag">&#x3C;/<span class="hljs-name">p</span>></span>
       )}
-    &#x3C;/form>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">form</span>></span></span>
   );
 }
 </code></pre>
 <h2>Improved Developer Experience</h2>
 <h3>Better Error Boundaries</h3>
-<pre><code class="language-jsx">import { ErrorBoundary } from 'react';
+<pre><code class="hljs language-jsx"><span class="hljs-keyword">import</span> { <span class="hljs-title class_">ErrorBoundary</span> } <span class="hljs-keyword">from</span> <span class="hljs-string">'react'</span>;
 
-function App() {
-  return (
-    &#x3C;ErrorBoundary fallback={&#x3C;ErrorFallback />}>
-      &#x3C;Router>
-        &#x3C;Routes>
-          &#x3C;Route path="/" element={&#x3C;Home />} />
-          &#x3C;Route path="/blog" element={&#x3C;Blog />} />
-        &#x3C;/Routes>
-      &#x3C;/Router>
-    &#x3C;/ErrorBoundary>
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">App</span>(<span class="hljs-params"></span>) {
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">ErrorBoundary</span> <span class="hljs-attr">fallback</span>=<span class="hljs-string">{</span>&#x3C;<span class="hljs-attr">ErrorFallback</span> /></span>}>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">Router</span>></span>
+        <span class="hljs-tag">&#x3C;<span class="hljs-name">Routes</span>></span>
+          <span class="hljs-tag">&#x3C;<span class="hljs-name">Route</span> <span class="hljs-attr">path</span>=<span class="hljs-string">"/"</span> <span class="hljs-attr">element</span>=<span class="hljs-string">{</span>&#x3C;<span class="hljs-attr">Home</span> /></span>} />
+          <span class="hljs-tag">&#x3C;<span class="hljs-name">Route</span> <span class="hljs-attr">path</span>=<span class="hljs-string">"/blog"</span> <span class="hljs-attr">element</span>=<span class="hljs-string">{</span>&#x3C;<span class="hljs-attr">Blog</span> /></span>} />
+        <span class="hljs-tag">&#x3C;/<span class="hljs-name">Routes</span>></span>
+      <span class="hljs-tag">&#x3C;/<span class="hljs-name">Router</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">ErrorBoundary</span>></span></span>
   );
 }
 
-function ErrorFallback({ error, resetErrorBoundary }) {
-  return (
-    &#x3C;div className="error-boundary">
-      &#x3C;h2>Something went wrong:&#x3C;/h2>
-      &#x3C;pre>{error.message}&#x3C;/pre>
-      &#x3C;button onClick={resetErrorBoundary}>Try again&#x3C;/button>
-    &#x3C;/div>
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">ErrorFallback</span>(<span class="hljs-params">{ error, resetErrorBoundary }</span>) {
+  <span class="hljs-keyword">return</span> (
+    <span class="xml"><span class="hljs-tag">&#x3C;<span class="hljs-name">div</span> <span class="hljs-attr">className</span>=<span class="hljs-string">"error-boundary"</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">h2</span>></span>Something went wrong:<span class="hljs-tag">&#x3C;/<span class="hljs-name">h2</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">pre</span>></span>{error.message}<span class="hljs-tag">&#x3C;/<span class="hljs-name">pre</span>></span>
+      <span class="hljs-tag">&#x3C;<span class="hljs-name">button</span> <span class="hljs-attr">onClick</span>=<span class="hljs-string">{resetErrorBoundary}</span>></span>Try again<span class="hljs-tag">&#x3C;/<span class="hljs-name">button</span>></span>
+    <span class="hljs-tag">&#x3C;/<span class="hljs-name">div</span>></span></span>
   );
 }
 </code></pre>
 <h2>Migration Guide</h2>
 <p>If you're upgrading from React 18, here's what you need to know:</p>
 <h3>1. Update Dependencies</h3>
-<pre><code class="language-bash">npm install react@19 react-dom@19
+<pre><code class="hljs language-bash">npm install react@19 react-dom@19
 </code></pre>
 <h3>2. Enable the Compiler (Optional)</h3>
-<pre><code class="language-javascript">// next.config.js
-module.exports = {
-  experimental: {
-    reactCompiler: true
+<pre><code class="hljs language-javascript"><span class="hljs-comment">// next.config.js</span>
+<span class="hljs-variable language_">module</span>.<span class="hljs-property">exports</span> = {
+  <span class="hljs-attr">experimental</span>: {
+    <span class="hljs-attr">reactCompiler</span>: <span class="hljs-literal">true</span>
   }
 };
 </code></pre>
@@ -185,11 +186,10 @@ module.exports = {
 <h2>What's Next?</h2>
 <p>In my next post, I'll dive deeper into practical examples of migrating a real-world application to React 19 and share performance benchmarks from production deployments.</p>
 <hr>
-<p><em>Have questions about React 19? Feel free to reach out on <a href="https://linkedin.com/in/abhinavjha">LinkedIn</a> or <a href="https://twitter.com/abhinavjhadev">Twitter</a>.</em></p>
-8:["$","div",null,{"className":"container mx-auto px-4 py-12 max-w-4xl","children":["$","div",null,{"ref":"$undefined","className":"rounded-sm border transition-all duration-200 overflow-hidden bg-card/30 backdrop-blur-sm border-border/50 p-4 overflow-hidden","role":"$undefined","tabIndex":"$undefined","children":[["$","div",null,{"ref":"$undefined","className":"bg-cover bg-center bg-no-repeat w-full","style":{"backgroundImage":"url(/images/blog/react-19-cover.jpg)","height":"260px","width":"$undefined"},"role":"img","aria-label":"$undefined","title":"Getting Started with React 19: What's New and Exciting","children":"$undefined"}],["$","div",null,{"ref":"$undefined","className":"flex items-start justify-between pb-0","children":[["$","div",null,{"className":"flex items-start space-x-4 flex-1","children":["$undefined",["$","div",null,{"className":"flex-1 min-w-0","children":[["$","div",null,{"className":"text-lg font-semibold leading-6 text-card-foreground","children":["$","h1",null,{"ref":"$undefined","className":"text-lg font-semibold leading-none tracking-tight text-card-foreground text-2xl md:text-3xl","children":"Getting Started with React 19: What's New and Exciting"}]}],["$","div",null,{"className":"text-sm text-muted-foreground mt-1","children":["$","div",null,{"className":"flex flex-wrap items-center gap-3 text-xs text-muted-foreground","children":[["$","span",null,{"children":["👤 ","Abhinav Jha"]}],["$","span",null,{"children":["📅 ","January 15, 2024"]}],["$","span",null,{"children":["⏱️ ",8," min read"]}],["$","span",null,{"children":["↻ Updated ","January 16, 2024"]}]]}]}]]}]]}],"$undefined",null]}],["$","div",null,{"ref":"$undefined","className":"p-6 pt-0 text-card-foreground pt-4","children":["$","p",null,{"ref":"$undefined","className":"text-sm text-muted-foreground text-base","children":"React 19 introduces groundbreaking features including the new React Compiler, improved Suspense boundaries, and enhanced server components that will change how we develop React applications."}]}],["$","div",null,{"ref":"$undefined","className":"p-6 pt-0 text-card-foreground pt-6","children":["$","div",null,{"className":"prose prose-lg dark:prose-invert max-w-none","dangerouslySetInnerHTML":{"__html":"$13"}}]}],"$L14"]}]}]
-14:["$","div",null,{"ref":"$undefined","className":"flex items-center p-6 pt-0 pt-0","children":["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span",null,{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-blue-100 dark:bg-blue-900/20 text-blue-800 dark:text-blue-200","children":"technical"}],[["$","span","React",{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-gray-100 dark:bg-gray-800 text-foreground","children":["#","React"]}],["$","span","JavaScript",{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-gray-100 dark:bg-gray-800 text-foreground","children":["#","JavaScript"]}],["$","span","Frontend",{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-gray-100 dark:bg-gray-800 text-foreground","children":["#","Frontend"]}],["$","span","Web Development",{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-gray-100 dark:bg-gray-800 text-foreground","children":["#","Web Development"]}]]]}]}]
+<p><em>Have questions about React 19? Feel free to reach out on <a href="https://linkedin.com/in/abhinavjha">LinkedIn</a> or <a href="https://twitter.com/abhinavjhadev">Twitter</a>.</em></p>8:[["$","$L13",null,{}],["$","div",null,{"className":"container mx-auto px-4 py-12 max-w-4xl","children":["$","div",null,{"ref":"$undefined","className":"rounded-sm border transition-all duration-200 overflow-hidden bg-card/30 backdrop-blur-sm border-border/50 p-4 overflow-hidden","role":"$undefined","tabIndex":"$undefined","children":[["$","div",null,{"ref":"$undefined","className":"bg-cover bg-center bg-no-repeat w-full","style":{"backgroundImage":"url(/images/blog/react-19-cover.jpg)","height":"260px","width":"$undefined"},"role":"img","aria-label":"$undefined","title":"Getting Started with React 19: What's New and Exciting","children":"$undefined"}],["$","div",null,{"ref":"$undefined","className":"flex items-start justify-between pb-0","children":[["$","div",null,{"className":"flex items-start space-x-4 flex-1","children":["$undefined",["$","div",null,{"className":"flex-1 min-w-0","children":[["$","div",null,{"className":"text-lg font-semibold leading-6 text-card-foreground","children":["$","h1",null,{"ref":"$undefined","className":"text-lg font-semibold leading-none tracking-tight text-card-foreground text-2xl md:text-3xl","children":"Getting Started with React 19: What's New and Exciting"}]}],["$","div",null,{"className":"text-sm text-muted-foreground mt-1","children":["$","div",null,{"className":"flex flex-wrap items-center gap-3 text-xs text-muted-foreground","children":[["$","span",null,{"children":["👤 ","Abhinav Jha"]}],["$","span",null,{"children":["📅 ","January 15, 2024"]}],["$","span",null,{"children":["⏱️ ",8," min read"]}],["$","span",null,{"children":["↻ Updated ","January 16, 2024"]}]]}]}]]}]]}],"$undefined",null]}],["$","div",null,{"ref":"$undefined","className":"p-6 pt-0 text-card-foreground pt-4","children":["$","p",null,{"ref":"$undefined","className":"text-sm text-muted-foreground text-base","children":"React 19 introduces groundbreaking features including the new React Compiler, improved Suspense boundaries, and enhanced server components that will change how we develop React applications."}]}],["$","div",null,{"ref":"$undefined","className":"p-6 pt-0 text-card-foreground pt-6","children":["$","div",null,{"className":"prose prose-lg dark:prose-invert max-w-none","dangerouslySetInnerHTML":{"__html":"$14"}}]}],"$L15"]}]}]]
+15:["$","div",null,{"ref":"$undefined","className":"flex items-center p-6 pt-0 pt-0","children":["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span",null,{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-blue-100 dark:bg-blue-900/20 text-blue-800 dark:text-blue-200","children":"technical"}],[["$","span","React",{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-gray-100 dark:bg-gray-800 text-foreground","children":["#","React"]}],["$","span","JavaScript",{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-gray-100 dark:bg-gray-800 text-foreground","children":["#","JavaScript"]}],["$","span","Frontend",{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-gray-100 dark:bg-gray-800 text-foreground","children":["#","Frontend"]}],["$","span","Web Development",{"className":"inline-flex items-center px-3 py-1 rounded-full text-xs bg-gray-100 dark:bg-gray-800 text-foreground","children":["#","Web Development"]}]]]}]}]
 e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 a:null
-15:I[38175,[],"IconMark"]
-c:{"metadata":[["$","title","0",{"children":"Getting Started with React 19: What's New and Exciting | Abhinav Jha"}],["$","meta","1",{"name":"description","content":"Explore the latest features in React 19 including the new compiler, improved Suspense, and enhanced server components."}],["$","link","2",{"rel":"author","href":"https://abhinavjha.dev"}],["$","meta","3",{"name":"author","content":"Abhinav Jha"}],["$","meta","4",{"name":"keywords","content":"React,Next.js,TypeScript,AI,Machine Learning,Full-Stack Developer,Python,Node.js"}],["$","meta","5",{"name":"creator","content":"Abhinav Jha"}],["$","meta","6",{"name":"publisher","content":"Abhinav Jha"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","9",{"name":"google-site-verification","content":"your-google-verification-code"}],["$","meta","10",{"property":"og:title","content":"Getting Started with React 19: What's New and Exciting"}],["$","meta","11",{"property":"og:description","content":"Explore the latest features in React 19 including the new compiler, improved Suspense, and enhanced server components."}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"property":"article:published_time","content":"2024-01-15T10:00:00Z"}],["$","meta","14",{"property":"article:modified_time","content":"2024-01-16T14:30:00Z"}],["$","meta","15",{"property":"article:author","content":"Abhinav Jha"}],["$","meta","16",{"property":"article:tag","content":"React"}],["$","meta","17",{"property":"article:tag","content":"JavaScript"}],["$","meta","18",{"property":"article:tag","content":"Frontend"}],["$","meta","19",{"property":"article:tag","content":"Web Development"}],["$","meta","20",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","21",{"name":"twitter:title","content":"Getting Started with React 19: What's New and Exciting"}],["$","meta","22",{"name":"twitter:description","content":"Explore the latest features in React 19 including the new compiler, improved Suspense, and enhanced server components."}],["$","link","23",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L15","24",{}]],"error":null,"digest":"$undefined"}
+16:I[38175,[],"IconMark"]
+c:{"metadata":[["$","title","0",{"children":"Getting Started with React 19: What's New and Exciting | Abhinav Jha"}],["$","meta","1",{"name":"description","content":"Explore the latest features in React 19 including the new compiler, improved Suspense, and enhanced server components."}],["$","link","2",{"rel":"author","href":"https://abhinavjha.dev"}],["$","meta","3",{"name":"author","content":"Abhinav Jha"}],["$","meta","4",{"name":"keywords","content":"React,Next.js,TypeScript,AI,Machine Learning,Full-Stack Developer,Python,Node.js"}],["$","meta","5",{"name":"creator","content":"Abhinav Jha"}],["$","meta","6",{"name":"publisher","content":"Abhinav Jha"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","9",{"name":"google-site-verification","content":"your-google-verification-code"}],["$","meta","10",{"property":"og:title","content":"Getting Started with React 19: What's New and Exciting"}],["$","meta","11",{"property":"og:description","content":"Explore the latest features in React 19 including the new compiler, improved Suspense, and enhanced server components."}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"property":"article:published_time","content":"2024-01-15T10:00:00Z"}],["$","meta","14",{"property":"article:modified_time","content":"2024-01-16T14:30:00Z"}],["$","meta","15",{"property":"article:author","content":"Abhinav Jha"}],["$","meta","16",{"property":"article:tag","content":"React"}],["$","meta","17",{"property":"article:tag","content":"JavaScript"}],["$","meta","18",{"property":"article:tag","content":"Frontend"}],["$","meta","19",{"property":"article:tag","content":"Web Development"}],["$","meta","20",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","21",{"name":"twitter:title","content":"Getting Started with React 19: What's New and Exciting"}],["$","meta","22",{"name":"twitter:description","content":"Explore the latest features in React 19 including the new compiler, improved Suspense, and enhanced server components."}],["$","link","23",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L16","24",{}]],"error":null,"digest":"$undefined"}
 11:"$c:metadata"

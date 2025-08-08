@@ -1,0 +1,244 @@
+1:"$Sreact.fragment"
+2:I[69015,["874","static/chunks/874-3e820bd666038662.js","534","static/chunks/534-669f790b0669c8a7.js","766","static/chunks/766-0aba3d5aeb464af5.js","259","static/chunks/259-4ada064bcc55a15d.js","652","static/chunks/652-77c01727aa361ea7.js","177","static/chunks/app/layout-e2f575b467e2621e.js"],"ThemeProvider"]
+3:I[63849,["874","static/chunks/874-3e820bd666038662.js","534","static/chunks/534-669f790b0669c8a7.js","766","static/chunks/766-0aba3d5aeb464af5.js","259","static/chunks/259-4ada064bcc55a15d.js","652","static/chunks/652-77c01727aa361ea7.js","177","static/chunks/app/layout-e2f575b467e2621e.js"],"MuiProvider"]
+4:I[77614,["874","static/chunks/874-3e820bd666038662.js","534","static/chunks/534-669f790b0669c8a7.js","766","static/chunks/766-0aba3d5aeb464af5.js","259","static/chunks/259-4ada064bcc55a15d.js","652","static/chunks/652-77c01727aa361ea7.js","177","static/chunks/app/layout-e2f575b467e2621e.js"],"default"]
+5:I[87555,[],""]
+6:I[31295,[],""]
+7:I[6874,["592","static/chunks/c15bf2b0-51c91f303884de57.js","874","static/chunks/874-3e820bd666038662.js","534","static/chunks/534-669f790b0669c8a7.js","802","static/chunks/802-11cc87ae5017832e.js","203","static/chunks/app/project/read-more/%5Bslug%5D/page-22a54ae70ee080ab.js"],""]
+9:I[59665,[],"OutletBoundary"]
+b:I[74911,[],"AsyncMetadataOutlet"]
+d:I[59665,[],"ViewportBoundary"]
+f:I[59665,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[28393,[],""]
+:HL["/_next/static/media/c97d4358b5ad6f1f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/384daad3dc6d4e00.css","style"]
+0:{"P":null,"b":"RYygSqAZE2jIZQh8pnXMB","p":"","c":["","project","read-more","ai-chatbot-enterprise",""],"i":false,"f":[[["",{"children":["project",{"children":["read-more",{"children":[["slug","ai-chatbot-enterprise","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/384daad3dc6d4e00.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_e8ce0c __variable_ae1979","children":["$","body",null,{"className":"min-h-screen bg-background text-foreground antialiased","suppressHydrationWarning":true,"children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","div",null,{"className":"relative flex min-h-screen flex-col","children":[["$","$L4",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center bg-background","children":["$","div",null,{"className":"text-center px-4","children":[["$","h1",null,{"className":"text-9xl font-bold text-primary mb-4","children":"404"}],["$","h2",null,{"className":"text-2xl md:text-3xl font-semibold text-foreground mb-6","children":"Page Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8 max-w-md mx-auto","children":"The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4 justify-center","children":[["$","$L7",null,{"href":"/","className":"inline-flex items-center justify-center px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary/90 transition-colors","children":"← Back to Home"}],["$","$L7",null,{"href":"/work","className":"inline-flex items-center justify-center px-6 py-3 border border-gray-300 dark:border-gray-600 text-foreground rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors","children":"View My Work"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]}]}]}]]}],{"children":["project",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["read-more",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","ai-chatbot-enterprise","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+13:I[35699,["592","static/chunks/c15bf2b0-51c91f303884de57.js","874","static/chunks/874-3e820bd666038662.js","534","static/chunks/534-669f790b0669c8a7.js","802","static/chunks/802-11cc87ae5017832e.js","203","static/chunks/app/project/read-more/%5Bslug%5D/page-22a54ae70ee080ab.js"],"default"]
+14:I[13741,["592","static/chunks/c15bf2b0-51c91f303884de57.js","874","static/chunks/874-3e820bd666038662.js","534","static/chunks/534-669f790b0669c8a7.js","802","static/chunks/802-11cc87ae5017832e.js","203","static/chunks/app/project/read-more/%5Bslug%5D/page-22a54ae70ee080ab.js"],"Button"]
+8:[["$","$L13",null,{}],["$","div",null,{"className":"container mx-auto px-4 py-12","children":["$","div",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"mb-8","children":["$","$L7",null,{"href":"/work","className":"inline-flex items-center gap-2 text-primary hover:text-primary/80 transition-colors","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","aria-hidden":"true","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],"Back to My Work"]}]}],["$","div",null,{"ref":"$undefined","className":"rounded-sm border transition-all duration-200 overflow-hidden bg-card text-card-foreground shadow-sm p-4 mb-8 bg-background text-foreground border-border","role":"$undefined","tabIndex":"$undefined","children":[["$","div",null,{"ref":"$undefined","className":"flex flex-col space-y-1.5","children":["$","div",null,{"className":"flex flex-col md:flex-row md:items-center md:justify-between gap-4","children":[["$","div",null,{"children":[["$","h3",null,{"ref":"$undefined","className":"text-lg font-semibold leading-none tracking-tight text-card-foreground text-2xl md:text-3xl mb-2","children":"Enterprise AI Customer Support Bot"}],["$","p",null,{"ref":"$undefined","className":"text-sm text-muted-foreground text-lg","children":"Intelligent chatbot system with NLP capabilities for enterprise customer support automation"}]]}],["$","div",null,{"className":"flex gap-2","children":["",["$","a",null,{"href":"https://github.com/abhinavjha/enterprise-chatbot","target":"_blank","rel":"noopener noreferrer","children":["$","$L14",null,{"variant":"outline","className":"inline-flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-github w-4 h-4","aria-hidden":"true","children":[["$","path","tonef",{"d":"M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"}],["$","path","9comsn",{"d":"M9 18c-4.51 2-5-2-7-2"}],"$undefined"]}]," GitHub"]}]}]]}]]}]}],["$","div",null,{"ref":"$undefined","className":"p-6 pt-0 text-card-foreground","children":[["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-3 gap-4 mb-6","children":[["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted-foreground","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],"Sep 2023"," - ","Dec 2023"]}],["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted-foreground","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-users w-4 h-4","aria-hidden":"true","children":[["$","path","1yyitq",{"d":"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"}],["$","path","16gr8j",{"d":"M16 3.128a4 4 0 0 1 0 7.744"}],["$","path","kshegd",{"d":"M22 21v-2a4 4 0 0 0-3-3.87"}],["$","circle","nufk8",{"cx":"9","cy":"7","r":"4"}],"$undefined"]}],"2 AI engineers"]}],["$","div",null,{"className":"flex items-center gap-2 text-sm text-muted-foreground","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],"$L15","$undefined"]}],"3 months"]}]]}],"$L16","$L17","$L18"]}]]}],"$L19"]}]}]]
+15:["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}]
+16:["$","div",null,{"className":"mb-6","children":[["$","h3",null,{"className":"text-sm font-medium text-foreground mb-3","children":"Technologies Used:"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","python",{"className":"bg-blue-50 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300 text-xs font-medium px-3 py-1 rounded-full","children":"Python"}],["$","span","react",{"className":"bg-blue-50 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300 text-xs font-medium px-3 py-1 rounded-full","children":"React"}],["$","span","nodejs",{"className":"bg-blue-50 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300 text-xs font-medium px-3 py-1 rounded-full","children":"Node.js"}]]}]]}]
+17:["$","div",null,{"className":"mb-6","children":[["$","h3",null,{"className":"text-sm font-medium text-foreground mb-3","children":"Deliverables:"}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","ml-model-development",{"className":"bg-green-50 text-green-700 dark:bg-green-900/30 dark:text-green-300 text-xs font-medium px-3 py-1 rounded-full flex items-center gap-1","children":[["$","span",null,{"children":"🤖"}],"Custom ML Model Development and Training"]}],["$","span","model-deployment-api",{"className":"bg-green-50 text-green-700 dark:bg-green-900/30 dark:text-green-300 text-xs font-medium px-3 py-1 rounded-full flex items-center gap-1","children":[["$","span",null,{"children":"🔌"}],"Model Deployment and API Integration"]}],["$","span","technical-training",{"className":"bg-green-50 text-green-700 dark:bg-green-900/30 dark:text-green-300 text-xs font-medium px-3 py-1 rounded-full flex items-center gap-1","children":[["$","span",null,{"children":"📖"}],"Technical Documentation and Training"]}],["$","span","application-architecture",{"className":"bg-green-50 text-green-700 dark:bg-green-900/30 dark:text-green-300 text-xs font-medium px-3 py-1 rounded-full flex items-center gap-1","children":[["$","span",null,{"children":"🏗️"}],"Complete Application Architecture"]}]]}]]}]
+18:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","a",null,{"href":"https://docs.enterprise-chatbot.com","target":"_blank","rel":"noopener noreferrer","children":["$","$L14",null,{"variant":"outline","size":"sm","className":"inline-flex items-center gap-2","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-file-text w-3 h-3","aria-hidden":"true","children":[["$","path","1rqfz7",{"d":"M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"}],["$","path","tnqrlb",{"d":"M14 2v4a2 2 0 0 0 2 2h4"}],["$","path","b1mrlr",{"d":"M10 9H8"}],["$","path","t4e002",{"d":"M16 13H8"}],["$","path","z1uh3a",{"d":"M16 17H8"}],"$undefined"]}]," Documentation"]}]}],""]}]
+1a:T2d15,<h1>Enterprise AI Customer Support Bot</h1>
+<h2>Project Overview</h2>
+<p>Intelligent chatbot system with Natural Language Processing capabilities for enterprise customer support automation. This project demonstrates advanced AI/ML integration with modern web technologies.</p>
+<h2>🤖 AI/ML Architecture</h2>
+<h3>Core Technologies</h3>
+<ul>
+<li><strong>NLP Framework</strong>: LangChain for conversation flow</li>
+<li><strong>Language Model</strong>: OpenAI GPT-4 for understanding and generation</li>
+<li><strong>Vector Database</strong>: Pinecone for knowledge retrieval</li>
+<li><strong>ML Pipeline</strong>: Custom Python pipeline for training and inference</li>
+<li><strong>Model Serving</strong>: FastAPI for real-time inference</li>
+</ul>
+<h3>AI Features</h3>
+<ul>
+<li><strong>Intent Recognition</strong>: 95% accuracy in understanding user queries</li>
+<li><strong>Context Awareness</strong>: Multi-turn conversation memory</li>
+<li><strong>Knowledge Retrieval</strong>: RAG (Retrieval Augmented Generation)</li>
+<li><strong>Sentiment Analysis</strong>: Real-time emotion detection</li>
+<li><strong>Auto-learning</strong>: Continuous improvement from interactions</li>
+</ul>
+<h2>Technical Implementation</h2>
+<h3>Backend Services</h3>
+<pre><code class="hljs language-python"><span class="hljs-comment"># Core AI service architecture</span>
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">ChatbotService</span>:
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">__init__</span>(<span class="hljs-params">self</span>):
+        <span class="hljs-variable language_">self</span>.llm = OpenAI(model=<span class="hljs-string">"gpt-4"</span>)
+        <span class="hljs-variable language_">self</span>.memory = ConversationBufferMemory()
+        <span class="hljs-variable language_">self</span>.retriever = VectorStoreRetriever()
+        <span class="hljs-variable language_">self</span>.sentiment_analyzer = SentimentPipeline()
+    
+    <span class="hljs-keyword">async</span> <span class="hljs-keyword">def</span> <span class="hljs-title function_">process_query</span>(<span class="hljs-params">self, user_input: <span class="hljs-built_in">str</span></span>) -> BotResponse:
+        <span class="hljs-comment"># Intent classification</span>
+        intent = <span class="hljs-keyword">await</span> <span class="hljs-variable language_">self</span>.classify_intent(user_input)
+        
+        <span class="hljs-comment"># Retrieve relevant knowledge</span>
+        context = <span class="hljs-keyword">await</span> <span class="hljs-variable language_">self</span>.retriever.search(user_input)
+        
+        <span class="hljs-comment"># Generate response with context</span>
+        response = <span class="hljs-keyword">await</span> <span class="hljs-variable language_">self</span>.llm.generate(
+            prompt=<span class="hljs-variable language_">self</span>.build_prompt(user_input, context),
+            memory=<span class="hljs-variable language_">self</span>.memory
+        )
+        
+        <span class="hljs-keyword">return</span> BotResponse(
+            text=response.text,
+            confidence=response.confidence,
+            intent=intent,
+            suggestions=response.suggestions
+        )
+</code></pre>
+<h3>Frontend Interface</h3>
+<ul>
+<li><strong>Framework</strong>: React with TypeScript</li>
+<li><strong>UI Components</strong>: Custom chat interface</li>
+<li><strong>Real-time</strong>: WebSocket connection for instant responses</li>
+<li><strong>State Management</strong>: Redux for chat history and state</li>
+<li><strong>Accessibility</strong>: Screen reader support and keyboard navigation</li>
+</ul>
+<h3>Data Processing Pipeline</h3>
+<pre><code class="hljs language-mermaid">graph LR
+    A[User Input] --> B[Preprocessing]
+    B --> C[Intent Classification]
+    C --> D[Context Retrieval]
+    D --> E[Response Generation]
+    E --> F[Post-processing]
+    F --> G[User Response]
+    
+    H[Training Data] --> I[Model Training]
+    I --> J[Model Validation]
+    J --> K[Deployment]
+</code></pre>
+<h2>Key Features</h2>
+<h3>🧠 Intelligent Conversation</h3>
+<ul>
+<li><strong>Multi-turn Dialogs</strong>: Maintains context across conversation</li>
+<li><strong>Fallback Handling</strong>: Graceful degradation for unknown queries</li>
+<li><strong>Human Handoff</strong>: Seamless transfer to human agents when needed</li>
+<li><strong>Proactive Suggestions</strong>: Anticipates user needs</li>
+</ul>
+<h3>📊 Analytics Dashboard</h3>
+<ul>
+<li><strong>Real-time Metrics</strong>: Response time, resolution rate, user satisfaction</li>
+<li><strong>Conversation Analytics</strong>: Popular queries, user flows, drop-off points</li>
+<li><strong>Performance Monitoring</strong>: Model accuracy, system uptime, error rates</li>
+<li><strong>Business Intelligence</strong>: ROI tracking, cost savings analysis</li>
+</ul>
+<h3>🔧 Enterprise Features</h3>
+<ul>
+<li><strong>Multi-language Support</strong>: 12 languages with cultural adaptation</li>
+<li><strong>Role-based Access</strong>: Different capabilities for different user types</li>
+<li><strong>Integration APIs</strong>: CRM, ticketing system, knowledge base connections</li>
+<li><strong>Compliance</strong>: GDPR, SOC2, HIPAA compliance ready</li>
+</ul>
+<h2>Performance Metrics</h2>
+<h3>Response Quality</h3>
+<ul>
+<li><strong>Accuracy</strong>: 95% correct responses on first attempt</li>
+<li><strong>Response Time</strong>: Average 1.2 seconds end-to-end</li>
+<li><strong>User Satisfaction</strong>: 4.8/5 average rating</li>
+<li><strong>Resolution Rate</strong>: 85% of queries resolved without human intervention</li>
+</ul>
+<h3>Business Impact</h3>
+<ul>
+<li><strong>Cost Reduction</strong>: $500K+ annual savings in support costs</li>
+<li><strong>Efficiency Gain</strong>: 80% reduction in response time</li>
+<li><strong>Scalability</strong>: Handles 10,000+ concurrent conversations</li>
+<li><strong>Customer Satisfaction</strong>: 95% satisfaction rate</li>
+</ul>
+<h2>Development Process</h2>
+<h3>Machine Learning Workflow</h3>
+<ol>
+<li><strong>Data Collection</strong>: Gathered 100K+ customer service conversations</li>
+<li><strong>Data Preprocessing</strong>: Cleaning, tokenization, and annotation</li>
+<li><strong>Model Training</strong>: Fine-tuned GPT-4 on domain-specific data</li>
+<li><strong>Evaluation</strong>: A/B testing with human evaluators</li>
+<li><strong>Deployment</strong>: Gradual rollout with monitoring</li>
+</ol>
+<h3>Quality Assurance</h3>
+<ul>
+<li><strong>Unit Testing</strong>: 95% code coverage</li>
+<li><strong>Integration Testing</strong>: End-to-end conversation flows</li>
+<li><strong>Performance Testing</strong>: Load testing up to 10K concurrent users</li>
+<li><strong>Security Testing</strong>: Penetration testing and vulnerability assessment</li>
+</ul>
+<h2>Deployment Architecture</h2>
+<h3>Cloud Infrastructure</h3>
+<pre><code class="hljs language-yaml"><span class="hljs-comment"># Kubernetes deployment configuration</span>
+<span class="hljs-attr">apiVersion:</span> <span class="hljs-string">apps/v1</span>
+<span class="hljs-attr">kind:</span> <span class="hljs-string">Deployment</span>
+<span class="hljs-attr">metadata:</span>
+  <span class="hljs-attr">name:</span> <span class="hljs-string">chatbot-api</span>
+<span class="hljs-attr">spec:</span>
+  <span class="hljs-attr">replicas:</span> <span class="hljs-number">3</span>
+  <span class="hljs-attr">selector:</span>
+    <span class="hljs-attr">matchLabels:</span>
+      <span class="hljs-attr">app:</span> <span class="hljs-string">chatbot-api</span>
+  <span class="hljs-attr">template:</span>
+    <span class="hljs-attr">spec:</span>
+      <span class="hljs-attr">containers:</span>
+      <span class="hljs-bullet">-</span> <span class="hljs-attr">name:</span> <span class="hljs-string">chatbot</span>
+        <span class="hljs-attr">image:</span> <span class="hljs-string">chatbot:latest</span>
+        <span class="hljs-attr">resources:</span>
+          <span class="hljs-attr">requests:</span>
+            <span class="hljs-attr">memory:</span> <span class="hljs-string">"1Gi"</span>
+            <span class="hljs-attr">cpu:</span> <span class="hljs-string">"500m"</span>
+          <span class="hljs-attr">limits:</span>
+            <span class="hljs-attr">memory:</span> <span class="hljs-string">"2Gi"</span>
+            <span class="hljs-attr">cpu:</span> <span class="hljs-string">"1000m"</span>
+</code></pre>
+<h3>Monitoring &#x26; Observability</h3>
+<ul>
+<li><strong>Application Monitoring</strong>: Grafana dashboards for real-time metrics</li>
+<li><strong>Error Tracking</strong>: Sentry for error monitoring and alerting</li>
+<li><strong>Performance Monitoring</strong>: New Relic for application performance</li>
+<li><strong>Log Analysis</strong>: ELK stack for centralized logging</li>
+</ul>
+<h2>Security &#x26; Privacy</h2>
+<h3>Data Protection</h3>
+<ul>
+<li><strong>End-to-end Encryption</strong>: All conversations encrypted in transit and at rest</li>
+<li><strong>Data Anonymization</strong>: PII removal and tokenization</li>
+<li><strong>Access Controls</strong>: Role-based permissions and audit logging</li>
+<li><strong>Compliance</strong>: GDPR, CCPA, and industry-specific regulations</li>
+</ul>
+<h3>AI Safety</h3>
+<ul>
+<li><strong>Content Filtering</strong>: Harmful content detection and blocking</li>
+<li><strong>Bias Detection</strong>: Regular auditing for model bias</li>
+<li><strong>Explainability</strong>: Response reasoning and confidence scores</li>
+<li><strong>Human Oversight</strong>: Regular human review of AI decisions</li>
+</ul>
+<h2>Future Roadmap</h2>
+<h3>Short-term (3-6 months)</h3>
+<ul>
+<li>[ ] Voice interface integration</li>
+<li>[ ] Advanced emotion recognition</li>
+<li>[ ] Multi-modal support (text, images, documents)</li>
+<li>[ ] Enhanced personalization</li>
+</ul>
+<h3>Long-term (6-12 months)</h3>
+<ul>
+<li>[ ] Autonomous learning capabilities</li>
+<li>[ ] Advanced reasoning and problem-solving</li>
+<li>[ ] Integration with business intelligence tools</li>
+<li>[ ] Predictive customer service</li>
+</ul>
+<h2>Team &#x26; Collaboration</h2>
+<h3>Development Team</h3>
+<ul>
+<li><strong>AI Engineers</strong>: 2 specialists in NLP and ML</li>
+<li><strong>Backend Engineers</strong>: 2 Python/Node.js developers</li>
+<li><strong>Frontend Engineers</strong>: 1 React specialist</li>
+<li><strong>DevOps Engineer</strong>: 1 cloud infrastructure specialist</li>
+</ul>
+<h3>Methodologies</h3>
+<ul>
+<li><strong>Agile Development</strong>: 2-week sprints with daily standups</li>
+<li><strong>Code Reviews</strong>: Mandatory peer review for all changes</li>
+<li><strong>Continuous Integration</strong>: Automated testing and deployment</li>
+<li><strong>Documentation</strong>: Comprehensive technical and user documentation</li>
+</ul>
+<h2>Resources &#x26; Links</h2>
+<h3>Live Demo</h3>
+<p><em>Currently in private beta - contact for access</em></p>
+<h3>Documentation</h3>
+<p><a href="https://docs.enterprise-chatbot.com">Technical Documentation</a></p>
+<h3>Source Code</h3>
+<p><a href="https://github.com/abhinavjha/enterprise-chatbot">GitHub Repository</a></p>
+<h3>Research Papers</h3>
+<ul>
+<li><a href="link-to-paper">Conversational AI for Enterprise Support</a></li>
+<li><a href="link-to-paper">Improving Customer Service with NLP</a></li>
+</ul>
+<hr>
+<p><em>This project showcases the intersection of cutting-edge AI technology with practical business solutions, demonstrating the power of thoughtful engineering in solving real-world problems.</em></p>19:["$","div",null,{"ref":"$undefined","className":"rounded-sm border transition-all duration-200 overflow-hidden bg-card text-card-foreground shadow-sm p-4 bg-background text-foreground border-border","role":"$undefined","tabIndex":"$undefined","children":["$","div",null,{"ref":"$undefined","className":"p-6 pt-0 text-card-foreground p-6","children":["$","div",null,{"className":"prose dark:prose-invert max-w-none","dangerouslySetInnerHTML":{"__html":"$1a"}}]}]}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+1b:I[38175,[],"IconMark"]
+c:{"metadata":[["$","title","0",{"children":"Abhinav Jha | Senior Developer"}],["$","meta","1",{"name":"description","content":"Portfolio of Senior Full-Stack Developer specializing in AI/ML with 9+ years of experience in React, Node.js, Python, and modern web technologies."}],["$","link","2",{"rel":"author","href":"https://abhinavjha.dev"}],["$","meta","3",{"name":"author","content":"Abhinav Jha"}],["$","meta","4",{"name":"keywords","content":"React,Next.js,TypeScript,AI,Machine Learning,Full-Stack Developer,Python,Node.js"}],["$","meta","5",{"name":"creator","content":"Abhinav Jha"}],["$","meta","6",{"name":"publisher","content":"Abhinav Jha"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","9",{"name":"google-site-verification","content":"your-google-verification-code"}],["$","meta","10",{"property":"og:title","content":"Abhinav Jha | Senior Full-Stack Developer"}],["$","meta","11",{"property":"og:description","content":"Portfolio of Senior Full-Stack Developer specializing in AI/ML"}],["$","meta","12",{"property":"og:url","content":"https://abhinavjha.dev/"}],["$","meta","13",{"property":"og:site_name","content":"Abhinav Jha Portfolio"}],["$","meta","14",{"property":"og:locale","content":"en_US"}],["$","meta","15",{"property":"og:image","content":"https://abhinavjha.dev/images/og-image.jpg"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Abhinav Jha - Senior Full-Stack Developer"}],["$","meta","19",{"property":"og:type","content":"website"}],["$","meta","20",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","21",{"name":"twitter:creator","content":"@abhinavjha2127"}],["$","meta","22",{"name":"twitter:title","content":"Abhinav Jha | Senior Full-Stack Developer"}],["$","meta","23",{"name":"twitter:description","content":"Portfolio of Senior Full-Stack Developer specializing in AI/ML"}],["$","meta","24",{"name":"twitter:image","content":"https://abhinavjha.dev/images/og-image.jpg"}],["$","link","25",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L1b","26",{}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
